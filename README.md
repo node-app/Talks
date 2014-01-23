@@ -1,4 +1,4 @@
-# Slides Of Talks held about Node.ap
+# Slides Of Talks held about Node.app
 
 ## Where Node.JS Meets iOS (also on [Slideshare](http://www.slideshare.net/sryzh/where-nodejs-meets-ios))
 
