@@ -1,5 +1,5 @@
 # Slides Of Talks held about Node.app
 
-## Where Node.JS Meets iOS (also on [Slideshare](http://www.slideshare.net/sryzh/where-nodejs-meets-ios))
+## Where Node.JS Meets iOS (also on [Speaker Deck](https://speakerdeck.com/srijs/where-node-dot-js-meets-ios))
 
 First held: Jan 23rd 2014, Hannover.JS in Hannover, Germany.
